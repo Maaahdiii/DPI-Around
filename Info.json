@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "name": "DPI Around",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/api/FirstPage" }
+  ],
+  "trailingSlash": false
+}
